@@ -1,3 +1,7 @@
+### Looking for projects
 
+I code in Go and Typescript. In my spare time I'm hacking on [devpie client](https://github.com/devpies/devpie-client-core).
 
-I'm a freelance Software Engineer with a Masters in Fine Arts. It's essential to understand my client's needs and vision. My process involves meeting with designers, stakeholders, understanding the customer journey, setting deliverables, and writing technical breakdowns for features before development.
+Follow me on [twitch](https://twitch.tv/ivorscott). I live code occasionally.
+
+[hire.ivorscott.com](hire.ivorscott.com)
