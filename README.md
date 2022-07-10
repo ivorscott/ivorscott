@@ -1,6 +1,6 @@
 ### Looking for projects
 
-I code in Go and Typescript.
+I code in Go and Typescript. Deploy on AWS.
 
 Follow me on [twitch](https://twitch.tv/ivorscott). I live code occasionally.
 
