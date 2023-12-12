@@ -1,4 +1,4 @@
-### Looking for projects
+### About Me
 
 I code in Go and Typescript. Deploy on AWS.
 
